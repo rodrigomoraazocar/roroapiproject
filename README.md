@@ -1,5 +1,3 @@
 # roroapiproject
 
-Hecho con el Profe 
-
-Ralf Lima
+Fecha de 22/03/2022
